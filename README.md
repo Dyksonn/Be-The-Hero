@@ -25,6 +25,11 @@ This app features all the latest tools and practices in mobile development!
 - 💹 **Node Js** — A web framework for Node Js
 - 📄 **KNEX** — Knex.js is a "batteries included" SQL query builder for Postgres, MSSQL, MySQL, MariaDB, SQLite3, Oracle, and Amazon Redshift designed to be flexible.
 
+## Getting started installing expo application
+- This project for part of <strong>Mobile</strong> we use the expo-cli framework so we are running the app we must install the expo app.
+- **Play store** <a>https://play.google.com/store/apps/details?id=host.exp.exponent&hl=en</a>
+- **App store** <a>https://apps.apple.com/br/app/expo-client/id982107779</a>
+
 ## Getting started
 
 1. Clone this repo using `git clone https://github.com/Dyksonn/Be-The-Hero.git`
