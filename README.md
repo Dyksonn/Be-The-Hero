@@ -50,3 +50,6 @@ This app features all the latest tools and practices in mobile development!
 
 1. Move yourself to the mobile folder: `cd Mobile`
 2. Run `yarn start` or `npm start` or `expo start` to start the mobile app
+
+<hr />
+<p align="center">Made with ❣ by Dykson Santos ♛ <a href="https://www.linkedin.com/in/dykson-santos-410740187/" target="_blank">Get in touch!</a></p>
