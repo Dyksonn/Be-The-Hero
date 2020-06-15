@@ -1,6 +1,6 @@
-<h1>
+<h1 align="center">
     <br>
-        <img src="./FrontEnd/web/src/assets/logo.svg" width="240" alt="Be-The-Hero">
+    <img src="./FrontEnd/web/src/assets/logo.svg" width="300" alt="Be-The-Hero" align="center">
     <br>
     <br>
     Be-The-Hero
